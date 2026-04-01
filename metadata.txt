@@ -1,0 +1,32 @@
+[general]
+name=GeoClassify
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+description=Raster classification toolkit based on literature-based thresholds with automatic styling and area analysis
+version=1.0
+author=Ömer K. ÖRÜCÜ
+email=omerorucu@sdu.edu.tr
+about=GeoClassify is a scientific raster classification toolkit for QGIS 4. It reclassifies raster data using thresholds accepted in the literature. Supported data types: Vegetation indices (NDVI, NDWI, SAVI, EVI, NDMI, NBR, BSI), Topographic data (Elevation, Slope, Aspect), Climate data (Annual Temperature, Annual Precipitation), Land use / land cover (LULC), Erosion Risk. Key features: Preview and edit classification ranges before processing, Create/save/import/export user-defined classifications, CRS-aware area calculation (projected and geographic/WGS84), Automatic QML style application, CSV export of per-class area statistics, Batch processing (reclassify an entire folder or selected files in one click).
+tracker=https://github.com/omerorucu/GeoClassify/issues
+repository=https://github.com/omerorucu/GeoClassify
+homepage=https://github.com/omerorucu/GeoClassify
+category=Raster
+icon=icon.png
+experimental=False
+deprecated=False
+hasProcessingProvider=no
+server=False
+tags=raster, classification, reclassify, vegetation index, NDVI, NDWI, EVI, SAVI, NDMI, NBR, BSI, topography, slope, aspect, elevation, climate, temperature, precipitation, LULC, erosion, batch processing, area calculation, remote sensing
+changelog=Version 1.0 (2026-03-16)
+  - Initial public release for QGIS 4.0 / Qt6
+  - Vegetation index classification: NDVI, NDWI, SAVI, EVI, NDMI, NBR, BSI
+  - Topographic data classification: Elevation, Slope, Aspect
+  - Climate data classification: Temperature, Precipitation
+  - LULC and Erosion Risk classification
+  - Classification preview and edit dialog
+  - User-defined classification creation and management (JSON import/export)
+  - CRS-aware area calculation (projected and geographic/WGS84)
+  - Automatic QML style application
+  - CSV export of per-class area statistics
+  - Batch reclassification (folder or file selection)
+  - Full QGIS 4.0 / Qt6 compatibility

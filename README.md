@@ -207,4 +207,4 @@ If you use GeoClassify in your research, please cite:
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
-Copyright © 2026 Ömer K. Örücü, Süleyman Demirel University, Isparta, Türkiye.
+Copyright © 2025 Ömer K. Örücü, Süleyman Demirel University, Isparta, Türkiye.
