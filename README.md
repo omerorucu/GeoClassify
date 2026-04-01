@@ -1,5 +1,4 @@
 # GeoClassify
-# GeoClassify
 
 **A literature-based raster classification toolkit for QGIS**
 
