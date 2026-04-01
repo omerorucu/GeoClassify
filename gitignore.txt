@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Distribution / packaging
+*.zip
+*.tar.gz
+*.egg
+*.egg-info/
+dist/
+build/
+
+# QGIS
+*.pyc
+*.qgd
+*.qgs~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
